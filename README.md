@@ -16,4 +16,4 @@ Python • SQL • Flask • Streamlit • Git • Pandas • NumPy
 - Career Catalyst – Career guidance & skill mapping
 
 ## 📫 Connect
-LinkedIn: https://linkedin.com/in/your-link
+LinkedIn: (https://www.linkedin.com/in/john-b-varghese-063571218/)
