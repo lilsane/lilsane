@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm John 👋
 
-<!--
-**lilsane/lilsane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering graduate (2025)  
+Interested in Backend, Data, and Applied ML
 
-Here are some ideas to get you started:
+## 🚀 What I work on
+- Python-based projects
+- Data analysis & dashboards
+- Learning system design (adaptive / analytics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Python • SQL • Flask • Streamlit • Git • Pandas • NumPy
+
+## 📌 Featured Projects
+- AI Call Analytics Dashboard – Streamlit + Python
+- Career Catalyst – Career guidance & skill mapping
+
+## 📫 Connect
+LinkedIn: https://linkedin.com/in/your-link
