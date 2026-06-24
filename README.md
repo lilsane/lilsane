@@ -1,7 +1,6 @@
 # Hi, I'm John 👋
 
-Computer Science Engineering graduate (2025)  
-Interested in Backend, Data, and Applied ML
+Interested in Backend, AI models and Applied ML
 
 ## 🚀 What I work on
 - Python-based projects
